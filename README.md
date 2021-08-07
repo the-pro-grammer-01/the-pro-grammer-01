@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there!
+
+My name's Elizabeth Medina. Here are some fun facts about me:
+
+- 💻 I'm interested in quantum computing and artificial intelligence
+- 🌮 I adore tacos
+- ✍🏼 I make cartoons in my free time
+- 🎼 I love to play the ukulele (especially fingerstyle) and I write my own tabs
+- 🎮 My high score in Tetris is 367,026
 
 <!--
 **the-pro-grammer-01/the-pro-grammer-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
